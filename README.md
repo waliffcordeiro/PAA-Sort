@@ -15,7 +15,10 @@ You are given a sorted array of numbers, and followed by number of queries, for 
 First line contains N Q, number of elements in the array and number of queries to follow,
 
 Second line contains N numbers, elements of the array, each number will be 
-$$ -10^9<= ai <= 10^9, 0 < N <= 10^5, 0 < Q <= 5*10^5 $$
+
+$$ 
+-10^9<= ai <= 10^9, 0 < N <= 10^5, 0 < Q <= 5*10^5 
+$$
 
 ## Output
 For each element in the query, print the elements 0 based location of its first occurence, if present, otherwise print -1.
