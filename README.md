@@ -45,7 +45,9 @@ Output T lines, containing the required answer for each test case.
 
 ## Constraints
 1 <= T <= 5
+
 1 <= N <= 100000
+
 1 <= a[i] <= 1000000 
 
 ___
