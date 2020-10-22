@@ -1,4 +1,4 @@
-# Projeto e Análise de Algoritmos (1/2020) - Sorts
+# Projeto e Análise de Algoritmos - Algoritmos de Ordenação
 
 Deve-se implementar os algoritmos de Busca Binária, Insertion Sort e Merge Sort seguindo as especificações de desempenho do site SPOJ.
 
