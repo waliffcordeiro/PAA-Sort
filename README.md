@@ -1,4 +1,4 @@
-# PAA-Sorts
+# Projeto e Análise de Algoritmos (1/2020) - Sorts
 
 Deve-se implementar os algoritmos de Busca Binária, Insertion Sort e Merge Sort seguindo as especificações de desempenho do site SPOJ.
 
